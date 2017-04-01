@@ -1,5 +1,5 @@
 #include<cmath>
-#include "VECTOR.h"
+#include"vector_class.h"
 using std::sqrt;
 using std::sin;
 using std::cos;

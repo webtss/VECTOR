@@ -1,7 +1,7 @@
 #include<ctime>
 #include<random>
 #include<iostream>
-#include"VECTOR.h"
+#include"vector_class.h"
 
 using namespace std;
 

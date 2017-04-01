@@ -23,7 +23,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="VECTOR.h">
+    <ClInclude Include="vector_class.h">
       <Filter>Заголовочные файлы</Filter>
     </ClInclude>
   </ItemGroup>

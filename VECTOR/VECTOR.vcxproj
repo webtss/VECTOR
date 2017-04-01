@@ -114,7 +114,7 @@
     <ClCompile Include="VECTOR.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="VECTOR.h" />
+    <ClInclude Include="vector_class.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
